@@ -1,2 +1,32 @@
-# souqgnaf-updates
-QShop Android APK releases and update metadata — أبو قناف للأتمتة
+# QShop — تحديثات التطبيق
+
+تطوير أبو قناف للأتمتة.
+
+هذا المستودع ينشر ملفات تثبيت QShop وبيانات الإصدار لفحص التحديث داخل التطبيق.
+
+## التنزيل
+
+[تحميل QShop 0.9.0 بصيغة APK](https://github.com/gnaf157-eng/souqgnaf-updates/releases/download/v0.9.0/QShop-v0.9.0.apk)
+
+[صفحة الإصدار](https://github.com/gnaf157-eng/souqgnaf-updates/releases/tag/v0.9.0)
+
+ثبّت التحديث فوق النسخة الحالية دون حذف التطبيق أو بياناته. يدعم Android 6 فأحدث.
+
+## فحص التحديث
+
+افتح التطبيق ← التطبيق ← فحص التحديث. إذا كانت نسختك 0.9.0 فستظهر أنها أحدث نسخة منشورة.
+
+[بيانات الإصدار](https://raw.githubusercontent.com/gnaf157-eng/souqgnaf-updates/main/update.json)
+
+## الإصدار 0.9.0
+
+- تنبيه للرسائل داخل التطبيق أثناء فتحه.
+- شارة بعدد المحادثات غير المقروءة.
+- عدد المتصلين الآن يتحدث تلقائيًا.
+
+الحزمة: `com.abognaf.souqgnaf`، رقم الإصدار: `90`.
+
+SHA-256 لملف APK:
+`1a2254fb5701931e1d084717bee0b821e3ad56fdc670928462b9d440a7aa92c8`
+
+المستودع مخصص لتوزيع التطبيق؛ الأرشيف التلقائي Source code في صفحة الإصدار يخص ملفات هذا المستودع.
