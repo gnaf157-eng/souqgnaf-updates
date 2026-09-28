@@ -1,0 +1,10 @@
+{
+  "packageName": "com.abognaf.souqgnaf",
+  "versionCode": 90,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/gnaf157-eng/souqgnaf-updates/releases/download/v0.9.0/QShop-v0.9.0.apk",
+  "sha256": "1a2254fb5701931e1d084717bee0b821e3ad56fdc670928462b9d440a7aa92c8",
+  "size": 4034594,
+  "minSdk": 23,
+  "notes": "تنبيه الرسائل داخل التطبيق، شارات المحادثات غير المقروءة، وعدد المتصلين الآن."
+}
