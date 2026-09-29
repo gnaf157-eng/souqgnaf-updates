@@ -1,10 +1,10 @@
 {
   "packageName": "com.abognaf.souqgnaf",
-  "versionCode": 100,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/gnaf157-eng/souqgnaf-updates/releases/download/v0.10.0/QShop-v0.10.0.apk",
-  "sha256": "38f6165bf70ba476ff00ca095ffe6700234a7a9b0032ea806f7f9e7b15dd623f",
-  "size": 4034607,
+  "versionCode": 110,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/gnaf157-eng/souqgnaf-updates/releases/download/v0.11.0/QShop-v0.11.0.apk",
+  "sha256": "89d85d385c31988d818b191993306015cb57f6436c264433423adf552060fdfa",
+  "size": 4050979,
   "minSdk": 23,
-  "notes": "إدارة السوق: إزالة الإعلانات واستعادتها، البلاغات الخاصة، وإيقاف النشر للحساب المخالف."
+  "notes": "تقييم الإعلانات، حظر الدردشة، كتالوج حتى ٦ صور، صندوق مقترحات المطوّر وتحسين التحقق من الإدارة."
 }
